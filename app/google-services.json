@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "213814642352",
+    "firebase_url": "https://ios-exam-project.firebaseio.com",
+    "project_id": "ios-exam-project",
+    "storage_bucket": "ios-exam-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213814642352:android:4b24aa646f161519",
+        "android_client_info": {
+          "package_name": "com.sls.satisfactorycalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213814642352-isgvsdb8jeqqeemqeceg03ao0f75c58l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaxkwnHzUFcHvkTB3jlrIafLaU7BqSl2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213814642352-isgvsdb8jeqqeemqeceg03ao0f75c58l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "213814642352-1ndsigpf91f9d5stur0nqshiinlj2inl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kea.Exam-Project"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
