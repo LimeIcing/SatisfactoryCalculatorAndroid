@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Satisfactory Calculator</string>
     <string name="hej">Hej, Kasper! din faggot</string>
+    <string name="components">Components</string>
+    <string name="resources">Resources</string>
+    <string name="buildings">Buildings</string>
 </resources>
